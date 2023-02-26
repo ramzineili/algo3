@@ -1,0 +1,11 @@
+ALGORITHM cartes
+VAR
+    cart : INTEGER
+BEGIN
+    read cart
+    IF (cart : ARRAY_OF INTEGER[i-1];) THEN
+        write 
+        BRAK
+    END_IF
+    END_IF
+END
